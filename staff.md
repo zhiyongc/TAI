@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Staff
+title: 授课团队
 description: A listing of all the course staff members.
 ---
 
