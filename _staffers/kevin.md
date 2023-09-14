@@ -5,7 +5,7 @@ email: zhiyongc@buaa.edu.cn
 website: https://shi.buaa.edu.cn/cuizhiyong/zh_CN/index.htm
 photo: kevin.jpg
 meta:
-  答疑时间: XXx
+  Office Hours: XXX
 ---
 
 [Schedule an appointment](zhiyongc@buaa.edu.cn){: .btn .btn-outline }
