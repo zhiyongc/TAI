@@ -21,46 +21,21 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+    - name: Office Hours
+      start: 14:30 PM
+      end: 15:30 PM
+      location: 国实 B806
   - name: Tuesday
   - name: Wednesday
-    events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
   - name: Thursday
-  - name: Friday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 9:50 AM
+        end: 11:25 AM
+        location: J5-302
+      - name: Office Hour
+        start: 15:30 AM
+        end: 16:30 PM
+        location: 国实 B805
+  - name: Friday
 ---
