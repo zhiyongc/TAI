@@ -19,15 +19,15 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
-  - name: Monday
+  - name: 星期一
     events:
     - name: Office Hours
       start: 2:30 PM
       end: 3:30 PM
       location: 国实 B806，李诚博
-  - name: Tuesday
-  - name: Wednesday
-  - name: Thursday
+  - name: 星期二
+  - name: 星期三
+  - name: 星期四
     events:
       - name: Lecture
         start: 9:50 AM
@@ -37,5 +37,5 @@ schedule:
         start: 3:30 PM
         end: 4:30 PM
         location: 国实 B805，赵艺萱
-  - name: Friday
+  - name: 星期五
 ---

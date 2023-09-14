@@ -1,11 +1,11 @@
 ---
-name: Kevin Lin
-role: Instructor
-email: me@example.com
-website: https://kevinl.info
+name: 崔志勇
+role: 授课教师
+email: zhiyongc@buaa.edu.cn
+website: https://shi.buaa.edu.cn/cuizhiyong/zh_CN/index.htm
 photo: kevin.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  答疑时间: XXx
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule an appointment](zhiyongc@buaa.edu.cn){: .btn .btn-outline }
