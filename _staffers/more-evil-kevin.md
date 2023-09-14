@@ -1,6 +1,6 @@
 ---
 name: More Evil Kevin
-role: Teaching Assistant
+role: 助教
 email: me@example.com
 website: https://kevinl.info
 photo: kevin.jpg
