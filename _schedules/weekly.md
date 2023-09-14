@@ -33,7 +33,7 @@ schedule:
         start: 9:50 AM
         end: 11:25 AM
         location: J5-302
-      - name: Office Hour
+      - name: Office Hours
         start: 3:30 PM
         end: 4:30 PM
         location: 国实 B805，赵艺萱
