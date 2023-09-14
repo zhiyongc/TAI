@@ -1,13 +1,14 @@
 ---
-title: Introduction to Java
+title: 第二周 - 人工智能简介
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+9月14日
+: [人工智能](#) 
+  : [练习-1](#)
+[人工智能介绍](#)
 
 Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
+: **Section**{: .label .label-purple }[Intro to Java]({{ site.baseurl }}{% /_files/1-人工智能.pdf %}#spacing)
   : [Solution](#)
 
 Sep 30
