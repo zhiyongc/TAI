@@ -8,7 +8,7 @@ title: 第二周 - 人工智能简介
 [人工智能介绍](#)
 
 Sep 29
-: **Section**{: .label .label-purple }[Intro to Java]({{ site.baseurl }}/_files/1-人工智能.pdf)
+: **Section**{: .label .label-purple }[Intro to Java]({{ site.baseurl }}/Files/1-人工智能.pdf)
   : [Solution](#)
 
 Sep 30

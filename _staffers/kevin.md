@@ -8,4 +8,4 @@ meta:
   Office Hours: XXX
 ---
 
-[Schedule an appointment](zhiyongc@buaa.edu.cn){: .btn .btn-outline }
+[Schedule an appointment](#){: .btn .btn-outline }
