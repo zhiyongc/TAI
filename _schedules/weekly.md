@@ -22,9 +22,9 @@ schedule:
   - name: Monday
     events:
     - name: Office Hours
-      start: 14:30 PM
-      end: 15:30 PM
-      location: 国实 B806
+      start: 2:30 PM
+      end: 3:30 PM
+      location: 国实 B806，李诚博
   - name: Tuesday
   - name: Wednesday
   - name: Thursday
@@ -34,8 +34,8 @@ schedule:
         end: 11:25 AM
         location: J5-302
       - name: Office Hour
-        start: 15:30 AM
-        end: 16:30 PM
-        location: 国实 B805
+        start: 3:30 PM
+        end: 4:30 PM
+        location: 国实 B805，赵艺萱
   - name: Friday
 ---

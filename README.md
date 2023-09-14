@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: 人工智能
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,7 +8,7 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# 人工智能
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
