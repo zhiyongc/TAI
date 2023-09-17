@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 授课团队
+title: 3. 授课团队
+# nav_exclude: true
 description: A listing of all the course staff members.
 ---
 

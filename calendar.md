@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Calendar
+# title: Calendar
+nav_exclude: true
 description: Listing of course modules and topics.
 ---
 
