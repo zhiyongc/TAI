@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 人工智能
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-baseurl: '/TransportationAI' # the subpath of your site, e.g. /blog
+tagline: 人工智能课
+description: 人工智能在交通领域的研究与应用
+author: Zhiyong Cui
+baseurl: '/TAI' # the subpath of your site, e.g. /blog
 # url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://zhiyongc.github.io"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
@@ -29,8 +29,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
+  Zhiyong Cui:
+    - 'https://zhiyongcui.com/'
   Just the Class on GitHub:
     - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
