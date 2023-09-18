@@ -74,3 +74,6 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+plugins:
+  - jemoji

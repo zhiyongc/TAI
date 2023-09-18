@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 1. 课程简介
+nav_exclude: true
 description: >-
     Course policies and information.
 ---

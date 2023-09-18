@@ -3,9 +3,9 @@ name: 崔志勇
 role: 授课教师
 email: zhiyongc@buaa.edu.cn
 website: https://shi.buaa.edu.cn/cuizhiyong/zh_CN/index.htm
-photo: kevin.jpg
+photo: zhiyong.jpg
 meta:
-  Office Hours: XXX
+  Office Hours: 课后  （:accept:）
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+<!-- [Schedule an appointment](#){: .btn .btn-outline } -->

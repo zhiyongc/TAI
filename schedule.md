@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 2. 课时安排
-# nav_exclude: true
+nav_exclude: true
 description: The weekly event schedule.
 ---
 
