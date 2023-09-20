@@ -30,7 +30,7 @@ seo:
 参考资料
 
 * :closed_book:《[Machine Learning for Transportation Research and Applications](https://books.google.com.hk/books?hl=en&lr=&id=1aCSEAAAQBAJ&oi=fnd&pg=PP1&dq=info:mxQeWRErljgJ:scholar.google.com&ots=Nw1sFgknt-&sig=1le41OEaPMD6L7PUaEIcsOH3DsM&redir_esc=y#v=onepage&q&f=false)》, Yinhai Wang, Zhiyong Cui, Ruimin  Ke, Elsevier, 2023
-
+* :closed_book:《神经网络与深度学习》，邱锡鹏，复旦大学, 2020  [[下载]({{ site.baseurl }}/Files/神经网络与深度学习-复旦大学-邱锡鹏.pdf)]
 
 ## 课程设计（大作业）
 
