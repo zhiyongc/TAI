@@ -66,6 +66,10 @@ seo:
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
+{% assign instructors = site.staffers2 | where: 'role', '授课教师' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
 
 {% assign teaching_assistants = site.staffers | where: 'role', '助教' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
